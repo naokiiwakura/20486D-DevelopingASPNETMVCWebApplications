@@ -1,35 +1,35 @@
-### 20486D: Developing ASP.NET Core MVC Applications
+### 20486D: Desenvolvimento de aplicativos ASP.NET Core MVC
 
 
-## What are we doing?
+## O que estamos fazendo?
 
-- To support course [20486D: Developing ASP.NET Core MVC Applications](https://www.microsoft.com/learning/en-us/course.aspx?ID=20486), we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+- Para dar suporte ao curso [20486D: Desenvolvendo aplicativos ASP.NET Core MVC] (https://www.microsoft.com/learning/en-us/course.aspx?ID=20486), precisaremos fazer atualizações frequentes para o conteúdo do curso para mantê-lo atualizado com os serviços do Azure usados ​​no curso. Estamos publicando as instruções e os arquivos do laboratório no GitHub para permitir contribuições abertas entre os autores do curso e os MCTs para manter o conteúdo atualizado com as alterações na plataforma do Azure.
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+- Esperamos que isso traga uma sensação de colaboração aos laboratórios como nunca tivemos antes - quando o Azure for alterado e você o encontrar primeiro durante uma entrega ao vivo, vá em frente e faça um aprimoramento diretamente na fonte do laboratório. Ajude seus colegas MCTs.
 
-## How should I use these files relative to the released MOC files?
+## Como devo usar esses arquivos em relação aos arquivos MOC liberados?
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
+- O manual do instrutor e os PowerPoints ainda serão sua principal fonte para o ensino do conteúdo do curso.
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+- Esses arquivos no GitHub foram projetados para serem usados ​​em conjunto com o manual do aluno, mas estão no GitHub como um repositório central para que os MCTs e os autores dos cursos possam ter uma fonte compartilhada para os arquivos de laboratório mais recentes.
 
-- It will be recommended that for every delivery of 20486D, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+- É recomendável que, para cada entrega do 20486D, os instrutores verifiquem o GitHub quanto a alterações que possam ter sido feitas para oferecer suporte aos serviços mais recentes do Azure e obtenha os arquivos mais recentes para entrega.
 
-## What about changes to the student handbook?
+## E as mudanças no manual do aluno?
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+- Revisaremos o manual do aluno trimestralmente e atualizaremos através dos canais normais de liberação do MOC, conforme necessário.
 
-## How do I contribute?
+## Como contribuo?
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+- Qualquer MCT pode enviar uma solicitação de recebimento ao código ou conteúdo do GitHub repro, a Microsoft e o autor do curso triarão e incluirão as alterações de conteúdo e de código de laboratório, conforme necessário.
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+- Você pode enviar bugs, alterações, melhorias e idéias. Encontre um novo recurso do Azure antes de termos? Envie uma nova demonstração!
 
-## Notes
+## Notas
 
-### Classroom Materials
+### Materiais da sala de aula
 
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+É altamente recomendável que os MCTs e Parceiros acessem esses materiais e, por sua vez, os forneçam separadamente aos alunos. Apontar os alunos diretamente para o GitHub para acessar as etapas do laboratório como parte de uma aula contínua exigirá que eles acessem outra interface do usuário como parte do curso, contribuindo para uma experiência confusa para o aluno. Uma explicação para o aluno sobre o motivo pelo qual ele está recebendo instruções de laboratório separadas pode destacar a natureza de uma interface e plataforma em nuvem em constante mudança. O suporte do Microsoft Learning para acessar arquivos no GitHub e o suporte à navegação no site do GitHub estão limitados aos MCTs que ministram apenas este curso.
 
-### Course Release Timeline
-This course is set to be released on March 15th 2019. 
+### Cronograma de lançamento do curso
+Este curso está programado para ser lançado em 15 de março de 2019.
